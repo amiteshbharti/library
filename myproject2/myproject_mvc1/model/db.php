@@ -4,7 +4,7 @@ ini_set("display_errors", "1");
 
 /**
  * 
- * @author root
+ * @author Amitesh
  * @access protected
  * @package DB
  * @date 7th march 2013
